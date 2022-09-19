@@ -1,0 +1,16 @@
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\bin\Debug\net5.0\Morne_twitchbot2.exe
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\bin\Debug\net5.0\Morne_twitchbot2.deps.json
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\bin\Debug\net5.0\Morne_twitchbot2.runtimeconfig.json
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\bin\Debug\net5.0\Morne_twitchbot2.runtimeconfig.dev.json
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\bin\Debug\net5.0\Morne_twitchbot2.dll
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\bin\Debug\net5.0\ref\Morne_twitchbot2.dll
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\bin\Debug\net5.0\Morne_twitchbot2.pdb
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.csproj.AssemblyReference.cache
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.AssemblyInfoInputs.cache
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.AssemblyInfo.cs
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.csproj.CoreCompileInputs.cache
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.dll
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\ref\Morne_twitchbot2.dll
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.pdb
+C:\Users\Linus\OneDrive\Dokument\Vs code\C-sharp\Min\Morne_twitchbot2\obj\Debug\net5.0\Morne_twitchbot2.genruntimeconfig.cache
